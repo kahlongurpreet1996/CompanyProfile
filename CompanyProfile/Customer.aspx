@@ -15,6 +15,10 @@
         }
 
     </style>
+     <br />
+    <br />
+    <br />
+   <hr />
     <div class="container">
         <div class="row">
             <asp:ListView ID="ListView1" runat="server" DataKeyNames="id" DataSourceID="SqlDataSource1" InsertItemPosition="LastItem">

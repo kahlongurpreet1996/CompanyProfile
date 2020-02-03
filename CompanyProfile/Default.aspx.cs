@@ -19,7 +19,7 @@ namespace CompanyProfile
             connection.ConnectionString = "Data Source=DESKTOP-LI67OBL\\SQLEXPRESS;Initial Catalog=CompanyProfile;Integrated Security=True";
 
 
-
+            
 
             connection.Open();
             command.Connection = connection;

@@ -49,7 +49,7 @@
                 color:yellow;
             }
         </style>
-        <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:skyblue">
+        <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:skyblue"><h2>Gurpreet Web & Softwares </h2>
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -63,7 +63,7 @@
                     <ul class="nav navbar-nav">
                         <a class="btn btn-default" runat="server" href="AdminLogin.aspx">Admin Acess</a>
                         <li class="btn btn-default"><a runat="server" style="color:black; font-size:large;" href="~/">Home</a></li>
-                        <li class="btn btn-default"><a runat="server" style="color:black; font-size:large;" href="ViewJobs.aspx">Latest Recuritment </a></li>
+                     <!--   <li class="btn btn-default"><a runat="server" style="color:black; font-size:large;" href="ViewJobs.aspx">Latest Recuritment </a></li>-->
                         <li class="btn btn-default"><a runat="server" style="color:black; font-size:large;" href="~/Contact">Contact</a></li>
                     </ul>
                 </div>
